@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for YouTubeKit
+about: Suggest an idea for AppleYouTubeKit
 title: "[Feature] - Short description of the feature"
 labels: ''
 assignees: ''
